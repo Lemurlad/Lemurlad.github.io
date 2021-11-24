@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Click Based - HTML Text Adventure Game</title>
+<link rel="stylesheet" href="css/styles.css">
+
+<style>
+a:link, a:visited {
+  background-color: lightpink;
+  color: black;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+</style>
+
+
+</head>
+<body
+      
+      style="background-color:powderblue;">
+
+
+
+<h1>Alien Adventure</h1>
+<hr>
+<h4>Exploring the Ship</h4>
+<div>You explore the ship and make your way to the engine room, you find too late a broken wire is sparking near a tank of spilled fuel. You only have seconds to make a decision. You can grab the nearby fire extinguisher, which may or may not be full, run to safety, or try and smother the flames manually with a nearby painting, which according to what the painter told you, was painted with fire resistant paint.</div>
+<hr>
+<p>Exploring the Ship</p>
+<img src="../media/exploreShip.png" width="500" height="275">
+<hr>
+<h4>Choices To Make</h4>
+<a href="../pages/grabExtinguisher.html">Grab the Fire Extinguisher</a> - <a href="../pages/run.html">Run</a> - <a href="../pages/smotherManually.html">Smother the Flames Manually</a> 
+
+
+</body>
+</html>

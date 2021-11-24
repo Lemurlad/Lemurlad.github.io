@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Click Based - HTML Text Adventure Game</title>
+<link rel="stylesheet" href="css/styles.css">
+
+<style>
+a:link, a:visited {
+  background-color: lightpink;
+  color: black;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+</style>
+
+
+</head>
+<body
+    
+      style="background-color:powderblue;">
+
+
+
+
+<h1>Alien Adventure</h1>
+<hr>
+<h4>The Blue Portal</h4>
+<div>You did it, the blue portal has brought you back safely home. You are so glad to be off the weird planet. You decide to write a book about it. In it, you name this strange planet Earth. The other Martians think you’re weird for writing this and don’t believe you ever went to this weird blue planet. You don’t hold a grudge though. Earth was really weird, and the inhabitants were even weirder.</div>
+<hr>
+<p>The Blue Portal</p>
+<img src="../media/blue.png">
+<hr>
+    <h4>Want to Play Again?</h4>
+    <a href="../index.html">Play Again</a>
+
+
+</body>
+</html>
